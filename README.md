@@ -20,8 +20,12 @@ JavaScript: Handles user input, generates bot responses, and manages the flow of
 Project Objectives:
 
 To build a simple, yet interactive chatbot interface.
+
 To practice frontend development skills by combining HTML, CSS, and JavaScript.
+
 To explore basic JavaScript logic for creating responsive chat experiences.
+
+
 This project is an excellent introduction to building interactive web applications using core web technologies, making it a good starting point for further chatbot or frontend development projects.
 
 
