@@ -12,7 +12,9 @@ Responsive Design: The layout is responsive and adapts to different screen sizes
 Technical Stack:
 
 HTML: Provides the structure of the chatbot, including the chat window, message bubbles, and input fields.
+
 CSS: Styles the chatbot, making the interface visually appealing with colors, fonts, and layout adjustments.
+
 JavaScript: Handles user input, generates bot responses, and manages the flow of conversation by appending messages to the chat window dynamically.
 
 Project Objectives:
